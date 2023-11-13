@@ -1,7 +1,7 @@
-<h1 align="left">HELLO, THIS IS ABHISHEK R. NAVGAN</h1>
+<h1 align="center">HELLO, THIS IS ABHISHEK R. NAVGAN</h1>
 
-<img width="200px" src="https://instagram.fpnq21-1.fna.fbcdn.net/v/t51.2885-19/400475980_870152837749477_2919817753179475419_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fpnq21-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=UAGAcYxYdTwAX8glaiG&edm=ACWDqb8BAAAA&ccb=7-5&oh=00_AfCw_7Im3FRfiQYHthRQcc8FMwCMZicna3S914gkgfLfhg&oe=6556DDA7&_nc_sid=ee9879">
-<h3 align="left">A passionate CS student from TMV Pune</h3>
+<h3 align="center">A passionate CS student from TMV Pune</h3>
+<img width="400px" height="400px" align="right" src="https://i.pinimg.com/originals/18/a4/94/18a4949fc9c8067172d3b96e302e7097.gif">
 
 - 🌱 I’m currently learning **React, Java Script, Java, Node js, express js, SQL**
 
@@ -43,4 +43,4 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhisheknavgan95&show_icons=true&locale=en&layout=compact" alt="abhisheknavgan95" /></p>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=abhisheknavgan95&" alt="abhisheknavgan95" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=abhisheknavgan95&" alt="abhisheknavgan95" /></p>
