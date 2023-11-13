@@ -1,7 +1,7 @@
 <h1 align="center">HELLO, THIS IS ABHISHEK R. NAVGAN</h1>
 
 <h3 align="center">A passionate CS student from TMV Pune</h3>
-<img width="400px" height="400px" align="right" src="https://i.pinimg.com/originals/18/a4/94/18a4949fc9c8067172d3b96e302e7097.gif">
+<img width="300px" height="300px" align="right" src="https://i.pinimg.com/originals/18/a4/94/18a4949fc9c8067172d3b96e302e7097.gif">
 
 - 🌱 I’m currently learning **React, Java Script, Java, Node js, express js, SQL**
 
