@@ -1,7 +1,7 @@
 <h1 align="center">HELLO, THIS IS ABHISHEK R. NAVGAN</h1>
 
 <h3 align="center">A passionate CS student from TMV Pune</h3>
-<img width="300px" height="300px" align="right" src="https://i.pinimg.com/originals/18/a4/94/18a4949fc9c8067172d3b96e302e7097.gif">
+<img width="400px" height="400px" align="right" src="https://media2.giphy.com/media/j4fbBhYgu8mNEHkQ4w/200w.gif?cid=82a1493b6gy0od7tt9aqzfkurlwx73dxoepj2opdsdp99r5c&ep=v1_gifs_related&rid=200w.gif&ct=g">
 
 - 🌱 I’m currently learning **React, Java Script, Java, Node js, express js, SQL**
 
@@ -19,16 +19,21 @@
 
 - 📄 Know me as a person [https://abhisheknavgan.netlify.app/](https://abhisheknavgan.netlify.app/](https://www.instagram.com/overrated_programmer/))
 
-- ⚡ Hobbies: **I also enjoy Gaming**
+- ⚡ I also enjoy:
+  - **Learning about tech**
+  - **Admiring Automobiles**
+  - **Watching animated Movies**
+  - **Top fragging in Valorant**
+  - **Staring at my PC all day**
 
-<h3 align="left">Talk to me here:</h3>
-<p align="left">
+<h3 align="center">Talk to me here:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/abhishek navgan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek navgan" height="30" width="40" /></a>
 <a href="https://instagram.com/overrated_programmer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="overrated_programmer" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Familiar Languages and Tools:</h3>
-<p align="left"> 
+<h3 align="center">Familiar Languages and Tools:</h3>
+<p align="center"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
@@ -42,5 +47,4 @@
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhisheknavgan95&show_icons=true&locale=en&layout=compact" alt="abhisheknavgan95" /></p>
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=abhisheknavgan95&" alt="abhisheknavgan95" /></p>
+<p><img align="left" width="100%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhisheknavgan95&show_icons=true&locale=en&layout=compact" alt="abhisheknavgan95" /></p>
