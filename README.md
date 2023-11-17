@@ -7,7 +7,7 @@
     </th>
   </tr>
   <tr>
-  <td width="">
+    <td width="">
     <h2 align="center">Ask me about</h2>
     <ul>
       <li>C</li>
@@ -21,21 +21,7 @@
       <li>
              GSAP, LOCOMOTIVE JS, LENIS
       </li>
-    </ul>
-    <h2 align="center">JavaScript Project</h2>
-    <p align="center">https://abhisheknavgan95.github.io/Key-Ninja/</p>
-    <h2 align="center">HTML CSS Projects</h2>
-    <p  align="center"> https://abhisheknavgan95.github.io/Cynthia-Ugwu-Portfolio-Clone/</p>
-    <p  align="center">https://abhisheknavgan95.github.io/Usability-Hub</p>
-    <p  align="center">https://abhisheknavgan95.github.io/Spacify-clone/</p>
-    <p  align="center">  https://abhisheknavgan95.github.io/BookMyShow-Clone/</p>
-    <h2 align="center">Bootstrap Projects/h2>
-    <p  align="center"> https://abhisheknavgan95.github.io/Paws-Play-Dog-Services/</p>
-    <p  align="center"> https://abhisheknavgan95.github.io/Buildcon/</p>
-    <h2 align="center">All of my projects are available at</h2>
-    <p  align="center">https://abhisheknavgan.netlify.app/</p>
-  </td>
-    <td width="">
+    </ul>    
     <h2 align="center">I’m currently learning </h2>
     <ul>
       <li>React Java</li>
@@ -52,22 +38,30 @@
       <li>Top fragging in Valorant</li>
       <li> In total just staring at my PC all day</li>
     </ul>
-    <h2 align="center"> reach out to me</h2>
-      <p  align="center"><a href="mailto:Navganabhishek90@gmail.com">Navganabhishek90@gmail.com</a></p>
-    <h2 align="center">Know me as a person</h2>
-      <p  align="center"> https://www.instagram.com/overrated_programmer/</p>
-    
+
 </td>
+  <td width="">
+    <h2 align="center">JavaScript Project</h2>
+    <p align="center">https://abhisheknavgan95.github.io/Key-Ninja/</p>
+    <h2 align="center">HTML CSS Projects</h2>
+    <p  align="center"> https://abhisheknavgan95.github.io/Cynthia-Ugwu-Portfolio-Clone/</p>
+    <p  align="center">https://abhisheknavgan95.github.io/Usability-Hub</p>
+    <p  align="center">https://abhisheknavgan95.github.io/Spacify-clone/</p>
+    <p  align="center">https://abhisheknavgan95.github.io/BookMyShow-Clone/</p>
+    <h2 align="center">Bootstrap Projects</h2>
+    <p  align="center"> https://abhisheknavgan95.github.io/Paws-Play-Dog-Services/</p>
+    <p  align="center"> https://abhisheknavgan95.github.io/Buildcon/</p>
+    <h2 align="center">All of my projects are available at</h2>
+    <p  align="center">https://abhisheknavgan.netlify.app/</p>
+    <h2 align="center"> reach out to me</h2>
+    <p  align="center"><a href="mailto:Navganabhishek90@gmail.com">Navganabhishek90@gmail.com</a></p>
+    <h2 align="center">Know me as a person</h2>
+    <p  align="center"> https://www.instagram.com/overrated_programmer/</p>
+  </td>
   </tr>
  
   <tr>
-    <td width="" align="center">
-          <h2 align="center">Talk to me here</h2>
-<p align="center">
-<a href="https://linkedin.com/in/abhishek navgan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek navgan" height="30" width="40" /></a>
-<a href="https://instagram.com/overrated_programmer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="overrated_programmer" height="30" width="40" /></a>
-</p></td>
-    <td width="" align="center">
+        <td width="" align="center">
     <h2 align="center">I'm familiar with these Languages and Tools</h2>
 <p align="center"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
@@ -84,13 +78,19 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 </p>
 </td>
+    <td width="" align="center">
+          <h2 align="center">Talk to me here</h2>
+<p align="center">
+<a href="https://linkedin.com/in/abhishek navgan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek navgan" height="30" width="40" /></a>
+<a href="https://instagram.com/overrated_programmer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="overrated_programmer" height="30" width="40" /></a>
+</p></td>
   </tr>
   <tr>
-    <td>
-        <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
+    <td align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400px">
     </td>
     <td align="center">
-        <div>Cheak out my repositories below ⬇️⬇️⬇️</div>
+        <h3>Cheak out my repositories below ⬇️⬇️⬇️</h3>
     </td>
   </tr>
 </table>
