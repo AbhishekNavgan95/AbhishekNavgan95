@@ -8,168 +8,51 @@
   </tr>
   <tr>
   <td width="">
-    <table>
-    <tr>
-      <th width="">
-           Ask me about
-      </th>
-    </tr>    
-    <tr>
-      <td width="">
-        <ul>
-          <li>
-             C
-          </li>
-          <li>
-             C++
-          </li>
-          <li>
+    <h2 align="center">Ask me about</h2>
+    <ul>
+      <li>C</li>
+      <li>C++</li>
+      <li>
                HTML, CSS, JavaScript
-          </li>
-          <li>
-             Tailwind CSS, boitstrap
-          </li>
-          <li>
+      </li>
+      <li>
              Git, GitHub
-          </li>
-          <li>
+      </li>
+      <li>
              GSAP, LOCOMOTIVE JS, LENIS
-          </li>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    </table>
-    <table>
-    <tr>
-      <th width="">
-        JavaScript Project
-      </th>
-    </tr>
-    <tr>
-      <td width="" align="center">
-        https://abhisheknavgan95.github.io/Key-Ninja/
-      </td>
-    </tr>
-  </table>
-  <table>
-    <tr>
-      <th width="">
-        HTML CSS Project
-      </th>
-    </tr>
-    <tr>
-      <td width="" align="center">
-        https://abhisheknavgan95.github.io/Usability-Hub
-      </td>
-    </tr>
-  </table>
-  <table>
-    <tr>
-      <th width="">
-        Bootstrap Project
-      </th>
-    </tr>
-    <tr>
-      <td width="" align="center">
-       https://abhisheknavgan95.github.io/Paws-Play-Dog-Services/
-      </td>
-    </tr>
-  </table>
-  <table>
-    <tr>
-      <th width="">
-        All of my projects are available at
-      </th>
-    </tr>
-    <tr>
-      <td width="" align="center">
-       https://abhisheknavgan.netlify.app/
-      </td>
-    </tr>
-  </table>
+      </li>
+    </ul>
+    <h2 align="center">JavaScript Project</h2>
+    <p align="center">https://abhisheknavgan95.github.io/Key-Ninja/</p>
+    <h2 align="center">HTML CSS Project</h2>
+    <p  align="center">https://abhisheknavgan95.github.io/Usability-Hub</p>
+    <h2 align="center">Bootstrap Project</h2>
+    <p  align="center"> https://abhisheknavgan95.github.io/Paws-Play-Dog-Services/</p>
+    <h2 align="center">All of my projects are available at</h2>
+    <p  align="center">https://abhisheknavgan.netlify.app/</p>
   </td>
     <td width="">
-    <table>
-    <tr>
-      <th width="">
-          I’m currently learning 
-      </th>
-    </tr>
-    <tr>
-      <td>
-        <ul>
-          <li>
-            React Java
-          </li>
-          <li>
-            Java Script
-          </li>
-          <li>
-            Node js
-          </li>
-          <li>
-            express js
-          </li>
-          <li>
-            SQL
-          </li>
-        </ul>
-      </td>
-    </tr>
-    </table>
-  <table>
-    <tr>
-      <th width="">
-       I also enjoy : 
-      </th>
-    </tr>
-    <tr>
-      <td width="">
-        <ul>
-          <li>
-            Learning about tech
-          </li>          
-          <li>
-            Admiring Automobiles
-          </li>
-          <li>
-            Watching animated Movies
-          </li>
-          <li>
-            Top fragging in Valorant
-          </li>          
-          <li>
-           In total just staring at my PC all day
-          </li>
-        </ul>
-      </td>
-    </tr>
-  </table>
-    <table>
-    <tr>
-      <th width="">
-        reach out to me
-      </th>
-    </tr>
-    <tr>
-      <td width="" align="center">
-        <a href="mailto:Navganabhishek90@gmail.com">Navganabhishek90@gmail.com</a>
-      </td>
-    </tr>
-  </table>
-  <table>
-    <tr>
-      <th width="">
-        Know me as a person
-      </th>
-    </tr>
-    <tr>
-      <td width="" align="center">
-        https://www.instagram.com/overrated_programmer/
-      </td>
-    </tr>
-  </table>
+    <h2 align="center">I’m currently learning </h2>
+    <ul>
+      <li>React Java</li>
+      <li>Java Script</li>
+      <li>Node js</li>
+      <li>express js</li>
+      <li> SQL</li>
+    </ul>
+    <h2 align="center">I also enjoy </h2>
+    <ul>
+      <li>Learning about tech</li>
+      <li> Admiring Automobiles</li>
+      <li> Watching animated Movies</li>
+      <li>Top fragging in Valorant</li>
+      <li> In total just staring at my PC all day</li>
+    </ul>
+    <h2 align="center"> reach out to me</h2>
+      <p  align="center"><a href="mailto:Navganabhishek90@gmail.com">Navganabhishek90@gmail.com</a></p>
+    <h2 align="center">Know me as a person</h2>
+      <p  align="center"> https://www.instagram.com/overrated_programmer/</p>
+    
 </td>
   </tr>
   <tr>
