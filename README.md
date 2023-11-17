@@ -1,38 +1,189 @@
-<h1 align="center">HELLO, THIS IS ABHISHEK R. NAVGAN</h1>
-
-<h3 align="center">A passionate CS student from TMV Pune</h3>
-<img width="400px" height="400px" align="right" src="https://media2.giphy.com/media/j4fbBhYgu8mNEHkQ4w/200w.gif?cid=82a1493b6gy0od7tt9aqzfkurlwx73dxoepj2opdsdp99r5c&ep=v1_gifs_related&rid=200w.gif&ct=g">
-
-- 🌱 I’m currently learning **React, Java Script, Java, Node js, express js, SQL**
-
-- 💬 Ask me about **C, C++, JavaScript, HTML, CSS, GSAP, Tailwind CSS**
-
-- ☕ JavaScript Project [Key Ninja](https://abhisheknavgan95.github.io/Key-Ninja/)
-
-- ☕ HTML CSS Project [Usability Hub](https://abhisheknavgan95.github.io/Usability-Hub/)
-
-- ☕Bootstrap Project [Paws & Play Pet Services](https://abhisheknavgan95.github.io/Paws-Play-Dog-Services/)
-
-- 👨‍💻 All of my projects are available at [https://abhisheknavgan.netlify.app/](https://abhisheknavgan.netlify.app/)
-
-- 📫 How to reach me **Navganabhishek90@gmail.com**
-
-- 📄 Know me as a person [https://abhisheknavgan.netlify.app/](https://abhisheknavgan.netlify.app/](https://www.instagram.com/overrated_programmer/))
-
-- ⚡ I also enjoy:
-  - **Learning about tech**
-  - **Admiring Automobiles**
-  - **Watching animated Movies**
-  - **Top fragging in Valorant**
-  - **Staring at my PC all day**
-
-<h3 align="center">Talk to me here:</h3>
+<table>
+  <tr>
+    <th colspan="2">
+      <img width="100%" align="right" src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg">
+      <h1 align="center">HELLO, MY NAME IS --ABHISHEK R. NAVGAN--</h1>
+      <h3 align="center">A passionate CS student from TMV Pune</h3>
+    </th>
+  </tr>
+  <tr>
+  <td width="500px">
+    <table>
+    <tr>
+      <th width="500px">
+           Ask me about
+      </th>
+    </tr>    
+    <tr>
+      <td width="500px">
+        <ul>
+          <li>
+             C
+          </li>
+          <li>
+             C++
+          </li>
+          <li>
+               HTML, CSS, JavaScript
+          </li>
+          <li>
+             Tailwind CSS, boitstrap
+          </li>
+          <li>
+             Git, GitHub
+          </li>
+          <li>
+             GSAP, LOCOMOTIVE JS, LENIS
+          </li>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    </table>
+    <table>
+    <tr>
+      <th width="500px">
+        JavaScript Project
+      </th>
+    </tr>
+    <tr>
+      <td width="500px" align="center">
+        https://abhisheknavgan95.github.io/Key-Ninja/
+      </td>
+    </tr>
+  </table>
+  <table>
+    <tr>
+      <th width="500px">
+        HTML CSS Project
+      </th>
+    </tr>
+    <tr>
+      <td width="500px" align="center">
+        https://abhisheknavgan95.github.io/Usability-Hub
+      </td>
+    </tr>
+  </table>
+  <table>
+    <tr>
+      <th width="500px">
+        Bootstrap Project
+      </th>
+    </tr>
+    <tr>
+      <td width="500px" align="center">
+       https://abhisheknavgan95.github.io/Paws-Play-Dog-Services/
+      </td>
+    </tr>
+  </table>
+  <table>
+    <tr>
+      <th width="500px">
+        All of my projects are available at
+      </th>
+    </tr>
+    <tr>
+      <td width="500px" align="center">
+       https://abhisheknavgan.netlify.app/
+      </td>
+    </tr>
+  </table>
+  </td>
+    <td width="455px">
+    <table>
+    <tr>
+      <th width="455px">
+          I’m currently learning 
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <ul>
+          <li>
+            React Java
+          </li>
+          <li>
+            Java Script
+          </li>
+          <li>
+            Node js
+          </li>
+          <li>
+            express js
+          </li>
+          <li>
+            SQL
+          </li>
+        </ul>
+      </td>
+    </tr>
+    </table>
+  <table>
+    <tr>
+      <th width="455px">
+       I also enjoy : 
+      </th>
+    </tr>
+    <tr>
+      <td width="455px">
+        <ul>
+          <li>
+            Learning about tech
+          </li>          
+          <li>
+            Admiring Automobiles
+          </li>
+          <li>
+            Watching animated Movies
+          </li>
+          <li>
+            Top fragging in Valorant
+          </li>          
+          <li>
+           In total just staring at my PC all day
+          </li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+    <table>
+    <tr>
+      <th width="455px">
+        reach out to me
+      </th>
+    </tr>
+    <tr>
+      <td width="455px" align="center">
+        <a href="mailto:Navganabhishek90@gmail.com">Navganabhishek90@gmail.com</a>
+      </td>
+    </tr>
+  </table>
+  <table>
+    <tr>
+      <th width="455px">
+        Know me as a person
+      </th>
+    </tr>
+    <tr>
+      <td width="455px" align="center">
+        https://www.instagram.com/overrated_programmer/
+      </td>
+    </tr>
+  </table>
+</td>
+  </tr>
+  <tr>
+    <th><h3 align="center">Talk to me here</h3></th>
+    <th><h3 align="center">I'm familiar with these Languages and Tools</h3></th>
+  </tr>
+  <tr>
+    <td width="500px" align="center">
 <p align="center">
 <a href="https://linkedin.com/in/abhishek navgan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek navgan" height="30" width="40" /></a>
 <a href="https://instagram.com/overrated_programmer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="overrated_programmer" height="30" width="40" /></a>
-</p>
+</p></td>
+    <td width="400px" align="center">
 
-<h3 align="center">Familiar Languages and Tools:</h3>
 <p align="center"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
@@ -47,4 +198,14 @@
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 </p>
-<p><img align="left" width="100%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhisheknavgan95&show_icons=true&locale=en&layout=compact" alt="abhisheknavgan95" /></p>
+</td>
+  </tr>
+  <tr>
+    <td>
+        <img src="https://github.com/AbhishekNavgan95/AbhishekNavgan95/blob/main/png-clipart-programming-language-computer-programming-java-programacion-text-computer-removebg-preview.png?raw=true" width="500px">
+    </td>
+    <td align="center">
+        <div>Cheak out my repositories below ⬇️⬇️⬇️</div>
+    </td>
+  </tr>
+</table>
