@@ -24,10 +24,14 @@
     </ul>
     <h2 align="center">JavaScript Project</h2>
     <p align="center">https://abhisheknavgan95.github.io/Key-Ninja/</p>
-    <h2 align="center">HTML CSS Project</h2>
+    <h2 align="center">HTML CSS Projects</h2>
+    <p  align="center"> https://abhisheknavgan95.github.io/Cynthia-Ugwu-Portfolio-Clone/</p>
     <p  align="center">https://abhisheknavgan95.github.io/Usability-Hub</p>
-    <h2 align="center">Bootstrap Project</h2>
+    <p  align="center">https://abhisheknavgan95.github.io/Spacify-clone/</p>
+    <p  align="center">  https://abhisheknavgan95.github.io/BookMyShow-Clone/</p>
+    <h2 align="center">Bootstrap Projects/h2>
     <p  align="center"> https://abhisheknavgan95.github.io/Paws-Play-Dog-Services/</p>
+    <p  align="center"> https://abhisheknavgan95.github.io/Buildcon/</p>
     <h2 align="center">All of my projects are available at</h2>
     <p  align="center">https://abhisheknavgan.netlify.app/</p>
   </td>
