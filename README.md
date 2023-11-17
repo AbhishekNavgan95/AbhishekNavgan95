@@ -7,15 +7,15 @@
     </th>
   </tr>
   <tr>
-  <td width="500px">
+  <td width="">
     <table>
     <tr>
-      <th width="500px">
+      <th width="">
            Ask me about
       </th>
     </tr>    
     <tr>
-      <td width="500px">
+      <td width="">
         <ul>
           <li>
              C
@@ -42,57 +42,57 @@
     </table>
     <table>
     <tr>
-      <th width="500px">
+      <th width="">
         JavaScript Project
       </th>
     </tr>
     <tr>
-      <td width="500px" align="center">
+      <td width="" align="center">
         https://abhisheknavgan95.github.io/Key-Ninja/
       </td>
     </tr>
   </table>
   <table>
     <tr>
-      <th width="500px">
+      <th width="">
         HTML CSS Project
       </th>
     </tr>
     <tr>
-      <td width="500px" align="center">
+      <td width="" align="center">
         https://abhisheknavgan95.github.io/Usability-Hub
       </td>
     </tr>
   </table>
   <table>
     <tr>
-      <th width="500px">
+      <th width="">
         Bootstrap Project
       </th>
     </tr>
     <tr>
-      <td width="500px" align="center">
+      <td width="" align="center">
        https://abhisheknavgan95.github.io/Paws-Play-Dog-Services/
       </td>
     </tr>
   </table>
   <table>
     <tr>
-      <th width="500px">
+      <th width="">
         All of my projects are available at
       </th>
     </tr>
     <tr>
-      <td width="500px" align="center">
+      <td width="" align="center">
        https://abhisheknavgan.netlify.app/
       </td>
     </tr>
   </table>
   </td>
-    <td width="455px">
+    <td width="">
     <table>
     <tr>
-      <th width="455px">
+      <th width="">
           I’m currently learning 
       </th>
     </tr>
@@ -120,12 +120,12 @@
     </table>
   <table>
     <tr>
-      <th width="455px">
+      <th width="">
        I also enjoy : 
       </th>
     </tr>
     <tr>
-      <td width="455px">
+      <td width="">
         <ul>
           <li>
             Learning about tech
@@ -148,24 +148,24 @@
   </table>
     <table>
     <tr>
-      <th width="455px">
+      <th width="">
         reach out to me
       </th>
     </tr>
     <tr>
-      <td width="455px" align="center">
+      <td width="" align="center">
         <a href="mailto:Navganabhishek90@gmail.com">Navganabhishek90@gmail.com</a>
       </td>
     </tr>
   </table>
   <table>
     <tr>
-      <th width="455px">
+      <th width="">
         Know me as a person
       </th>
     </tr>
     <tr>
-      <td width="455px" align="center">
+      <td width="" align="center">
         https://www.instagram.com/overrated_programmer/
       </td>
     </tr>
@@ -177,12 +177,12 @@
     <th><h3 align="center">I'm familiar with these Languages and Tools</h3></th>
   </tr>
   <tr>
-    <td width="500px" align="center">
+    <td width="" align="center">
 <p align="center">
 <a href="https://linkedin.com/in/abhishek navgan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek navgan" height="30" width="40" /></a>
 <a href="https://instagram.com/overrated_programmer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="overrated_programmer" height="30" width="40" /></a>
 </p></td>
-    <td width="400px" align="center">
+    <td width="" align="center">
 
 <p align="center"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
@@ -202,7 +202,7 @@
   </tr>
   <tr>
     <td>
-        <img src="https://github.com/AbhishekNavgan95/AbhishekNavgan95/blob/main/png-clipart-programming-language-computer-programming-java-programacion-text-computer-removebg-preview.png?raw=true" width="500px">
+        <img src="https://github.com/AbhishekNavgan95/AbhishekNavgan95/blob/main/png-clipart-programming-language-computer-programming-java-programacion-text-computer-removebg-preview.png?raw=true" width="100%">
     </td>
     <td align="center">
         <div>Cheak out my repositories below ⬇️⬇️⬇️</div>
