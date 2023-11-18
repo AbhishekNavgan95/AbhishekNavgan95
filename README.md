@@ -96,7 +96,7 @@
  
   <tr>
     <td align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400px">
+        <img src="https://media4.giphy.com/media/h1ZxEkY5J4m2s/giphy.gif" width="400px">
     </td>
     <td width="" align="center">
       <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AbhishekNavgan95&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
