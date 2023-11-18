@@ -30,7 +30,8 @@
 
 <h2 align="center">I’m currently learning </h2>
     <ul>
-      <li>React Java</li>
+      <li>React</li>
+      <li>Java</li>
       <li>Java Script</li>
       <li>Node js</li>
       <li>express js</li>
