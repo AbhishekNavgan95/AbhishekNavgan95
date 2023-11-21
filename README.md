@@ -75,8 +75,6 @@
 
 <h2 align="center">Bootstrap Projects</h2>
     <p  align="center"> https://abhisheknavgan95.github.io/Paws-Play-Dog-Services/</p>
-    <p  align="center"> https://abhisheknavgan95.github.io/Buildcon/</p>
-    <p  align="center"> https://abhisheknavgan95.github.io/Elevation-Ed/</p>
           
 ---
 
