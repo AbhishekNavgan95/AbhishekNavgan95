@@ -16,7 +16,10 @@
       <li>C</li>
       <li>C++</li>
       <li>
-               HTML, CSS, JavaScript
+               HTML, CSS
+      </li>
+      <li>
+              JavaScript
       </li>
       <li>
              Git, GitHub
@@ -35,7 +38,7 @@
       <li>Java Script</li>
       <li>Node js</li>
       <li>express js</li>
-      <li> SQL</li>
+      <li>SQL</li>
     </ul>      
     
 ---
@@ -76,7 +79,7 @@
           
 ---
 
-<h2 align="center">All of my projects are available at</h2>
+<h2 align="center">See my all projects</h2>
     <p align="center"><a href="https://abhisheknavgan.netlify.app/">My Portfolio Webpage</a></p>
           
 ---
@@ -92,10 +95,10 @@
  
   <tr>
     <td align="center">
-        <img src="https://media4.giphy.com/media/h1ZxEkY5J4m2s/giphy.gif" width="400px">
+        <img src="https://img.buzzfeed.com/buzzfeed-static/static/2021-06/9/21/asset/23809ee28d48/anigif_sub-buzz-527-1623274106-21.gif" width="400px">
     </td>
     <td width="" align="center">
-      <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AbhishekNavgan95&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+      <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AbhishekNavgan95&show_icons=true&theme=gotham" alt="abhisheknaiidu"/>
     </td>
   </tr>
   <tr>
@@ -103,7 +106,7 @@
                   
 ---
 
-<h2 align="center">I'm familiar with these Languages and Tools</h2>
+<h2 align="center">I'm familiar with these<br>Languages and Tools</h2>
         <p align="center"> 
           <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
           <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
@@ -131,7 +134,7 @@
           <a href="https://linkedin.com/in/abhishek navgan" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek navgan" height="30" width="40" /></a>
           <a href="https://instagram.com/overrated_programmer" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="overrated_programmer" height="30" width="40" /></a>
        </p>
-        <h3>Cheak out my repositories below ⬇️⬇️⬇️</h3>
+        <h3>Cheak out my repositories  <br>⬇️⬇️⬇️</h3>
               
 ---
 
