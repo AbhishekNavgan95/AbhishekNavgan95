@@ -1,10 +1,10 @@
 <table>
   <tr>
     <th colspan="2">
-      <img width="100%" align="right" src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg">
-      <h1 align="center">HELLO, MY NAME IS --ABHISHEK R. NAVGAN--</h1>
-      <h3 align="center">A passionate CS student from TMV Pune</h3>
-    </th>
+    <img width="100%" align="right" src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg">
+    <h1 align="center">HELLO, MY NAME IS --ABHISHEK R. NAVGAN--</h1>
+    <h3 align="center">A passionate CS student from TMV Pune</h3>
+  </th>
   </tr>
   <tr>
     <td width="">
@@ -40,7 +40,7 @@
       <li>express js</li>
       <li>SQL</li>
     </ul>      
-    
+
 ---
 
 <h2 align="center">I also enjoy </h2>
@@ -53,11 +53,12 @@
     </ul>
           
 ---
-
+---
+---
 
 </td>
 <td width="">
-        
+
 ---
 
 <h2 align="center">JavaScript Project</h2>
@@ -76,6 +77,7 @@
     <p align="center"><a href="https://abhisheknavgan95.github.io/Paws-Play-Dog-Services/">Play And Paws</a></p>
     <p  align="center"><a href="https://abhisheknavgan95.github.io/Travello/">Travello</a></p>
     <p align="center"><a href="https://abhisheknavgan95.github.io/Buildcon/">Buildcon</a></p>
+    <p align="center"><a href="https://abhisheknavgan95.github.io/Elevation-Ed/">Elevation-Ed</a></p>
           
 ---
 
@@ -134,7 +136,7 @@
           <a href="https://linkedin.com/in/abhishek navgan" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek navgan" height="30" width="40" /></a>
           <a href="https://instagram.com/overrated_programmer" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="overrated_programmer" height="30" width="40" /></a>
        </p>
-        <h3>Cheak out my repositories  <br>⬇️⬇️⬇️</h3>
+        <h3>Cheak out my repositories  <br>⬇️⬇️⬇️⬇️⬇️⬇️</h3>
               
 ---
 
