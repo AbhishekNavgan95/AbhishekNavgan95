@@ -11,7 +11,7 @@
             
 ---
 
-<h2 align="center">Ask me about</h2>
+<h2 align="center">Area of Expertise</h2>
     <ul>
       <li>C</li>
       <li>C++</li>
