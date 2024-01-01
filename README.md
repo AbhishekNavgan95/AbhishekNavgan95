@@ -135,7 +135,7 @@
 <h2 align="center">Talk to me here</h2>
         <p align="center">
           <a href="https://linkedin.com/in/abhishek navgan" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek navgan" height="30" width="40" /></a>
-          <a href="https://instagram.com/overrated_programmer" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="overrated_programmer" height="30" width="40" /></a>
+          <a href="https://www.instagram.com/isol8ed_dev/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="overrated_programmer" height="30" width="40" /></a>
        </p>
         <h3>Cheak out my repositories  <br>⬇️⬇️⬇️⬇️⬇️⬇️</h3>
               
