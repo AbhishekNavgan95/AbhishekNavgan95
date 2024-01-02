@@ -51,15 +51,18 @@
       <li>Top fragging in Valorant</li>
       <li> In total just staring at my PC all day</li>
     </ul>
+    
+---
+
+<h2 align="center">React Project</h2>
+    <p align="center"><a href="https://code-hex.netlify.app/">Code-Hex</a></p>
+    <p align="center"><a href="https://vanlife-an.netlify.app/">VanLife</a></p>
           
----
----
----
 ---
 
 </td>
 <td width="">
-
+  
 ---
 
 <h2 align="center">JavaScript Project</h2>
@@ -90,6 +93,9 @@
 <h2 align="center"> reach out to me</h2>
     <p  align="center"><a href="mailto:Navganabhishek90@gmail.com">Abhishek Navgan</a></p>
           
+---
+---
+---
 ---
 
 
