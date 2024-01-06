@@ -7,53 +7,54 @@
   </th>
   </tr>
   <tr>
-    <td width="">
-            
----
-
-<h2 align="center">Area of Expertise</h2>
-    <ul>
-      <li>C</li>
-      <li>C++</li>
-      <li>
-               HTML, CSS
-      </li>
-      <li>
-              JavaScript
-      </li>
-      <li>
-             Git, GitHub
-      </li>
-      <li>
-             GSAP, LOCOMOTIVE JS, LENIS
-      </li>
-    </ul>   
+    <td colspan="2">
+    <font size="9">
       
+      
+      const abhishekNavgan = {
+      
+        areaOfExperties : ['React', 'JavaScript', 'HTML', 'CSS', 'Git', 'Github', 'C', 'C++'],
+        
+        currentlyLearning: ['Java', 'Node js', 'Express js', 'SQL'],
+        
+        education : {
+          BCA : TMV PUNE (2022-25),
+          HSC : PKMH (2018-19)
+        },
+        
+        contact : {
+          email : "navganabhishek90@gmail.com",
+          LinkedIn : "Abhishek Navgan"
+        },
+        
+        hobbies : ['Learning about tech', 'Admiring Automobiles', 'Watching animated movies', 'Top fragging in valorant']
+     }
+  </font>
+  </td>
+  </tr>
+  <tr>
+    <td width="">
+
 ---
 
-<h2 align="center">I’m currently learning </h2>
-    <ul>
-      <li>React</li>
-      <li>Java</li>
-      <li>Java Script</li>
-      <li>Node js</li>
-      <li>express js</li>
-      <li>SQL</li>
-    </ul>      
+<h2 align="center">React Project</h2>
+    <p align="center"><a href="https://code-hex.netlify.app/">Code-Hex</a></p>
+    <p align="center"><a href="https://vanlife-an.netlify.app/">VanLife</a></p>
+             
+---
+
+
+<h2 align="center">JavaScript Project</h2>
+    <p align="center"><a href="https://abhisheknavgan95.github.io/Key-Ninja/">Key Ninja</a></p>
 
 ---
 
-<h2 align="center">I also enjoy </h2>
-    <ul>
-      <li>Learning about tech</li>
-      <li> Admiring Automobiles</li>
-      <li> Watching animated Movies</li>
-      <li>Top fragging in Valorant</li>
-      <li> In total just staring at my PC all day</li>
-    </ul>
+<h2 align="center">See my all projects</h2>
+    <p align="center"><a href="https://abhisheknavgan.netlify.app/">My Portfolio Webpage</a></p>
+
+       
+---
     
----
-
 <h2 align="center"> reach out to me</h2>
     <p  align="center"><a href="mailto:Navganabhishek90@gmail.com">Abhishek Navgan</a></p>
           
@@ -62,18 +63,8 @@
 </td>
 <td width="">
 
----
 
-<h2 align="center">React Project</h2>
-    <p align="center"><a href="https://code-hex.netlify.app/">Code-Hex</a></p>
-    <p align="center"><a href="https://vanlife-an.netlify.app/">VanLife</a></p>
-         
-  
----
 
-<h2 align="center">JavaScript Project</h2>
-    <p align="center"><a href="https://abhisheknavgan95.github.io/Key-Ninja/">Key Ninja</a></p>
-          
 ---
 
 <h2 align="center">HTML CSS Projects</h2>
@@ -91,11 +82,7 @@
           
 ---
 
-<h2 align="center">See my all projects</h2>
-    <p align="center"><a href="https://abhisheknavgan.netlify.app/">My Portfolio Webpage</a></p>
 
- 
----
 
 
 </td>
