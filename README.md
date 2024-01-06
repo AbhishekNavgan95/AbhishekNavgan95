@@ -8,8 +8,6 @@
   </tr>
   <tr>
     <td colspan="2">
-    <font size="9">
-      
       
       const abhishekNavgan = {
       
@@ -29,7 +27,7 @@
         
         hobbies : ['Learning about tech', 'Admiring Automobiles', 'Watching animated movies', 'Top fragging in valorant']
      }
-  </font>
+     
   </td>
   </tr>
   <tr>
