@@ -9,11 +9,26 @@
   <tr>
     <td colspan="2">
       
-      const abhishekNavgan = {
+
+     
+  </td>
+  </tr>
+  <tr>
+    <td width="">
+
+     const abhishekNavgan = {
       
-        areaOfExperties : ['React', 'JavaScript', 'HTML', 'CSS', 'Git', 'Github', 'C', 'C++'],
+        areaOfExperties : [
+          'React', 'JavaScript', 
+          'HTML', 'CSS', 
+          'Git', 'Github', 
+          'C', 'C++'
+        ],
         
-        currentlyLearning: ['Java', 'Node js', 'Express js', 'SQL'],
+        currentlyLearning: [
+          'Java', 'Node js', 
+          'Express js', 'SQL'
+        ],
         
         education : {
           BCA : TMV PUNE (2022-25),
@@ -25,13 +40,13 @@
           LinkedIn : "Abhishek Navgan"
         },
         
-        hobbies : ['Learning about tech', 'Admiring Automobiles', 'Watching animated movies', 'Top fragging in valorant']
+        hobbies : [
+          'Learning about tech', 
+          'Admiring Automobiles', 
+          'Watching animated movies', 
+          'Top fragging in valorant'
+        ]
      }
-     
-  </td>
-  </tr>
-  <tr>
-    <td width="">
 
 ---
 
@@ -42,21 +57,7 @@
 ---
 
 
-<h2 align="center">JavaScript Project</h2>
-    <p align="center"><a href="https://abhisheknavgan95.github.io/Key-Ninja/">Key Ninja</a></p>
 
----
-
-<h2 align="center">See my all projects</h2>
-    <p align="center"><a href="https://abhisheknavgan.netlify.app/">My Portfolio Webpage</a></p>
-
-       
----
-    
-<h2 align="center"> reach out to me</h2>
-    <p  align="center"><a href="mailto:Navganabhishek90@gmail.com">Abhishek Navgan</a></p>
-          
----
 
 </td>
 <td width="">
@@ -80,6 +81,21 @@
           
 ---
 
+<h2 align="center">JavaScript Project</h2>
+    <p align="center"><a href="https://abhisheknavgan95.github.io/Key-Ninja/">Key Ninja</a></p>
+
+---
+
+<h2 align="center">See my all projects</h2>
+    <p align="center"><a href="https://abhisheknavgan.netlify.app/">My Portfolio Webpage</a></p>
+
+       
+---
+    
+<h2 align="center"> reach out to me</h2>
+    <p  align="center"><a href="mailto:Navganabhishek90@gmail.com">Abhishek Navgan</a></p>
+          
+---
 
 
 
