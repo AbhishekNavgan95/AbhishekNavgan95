@@ -67,9 +67,9 @@
 ---
 
 <h2 align="center">HTML CSS Projects</h2>
-    <p align="center"><a href="https://abhisheknavgan95.github.io/Cynthia-Ugwu-Portfolio-Clone/">Cynthia Ugwu Portfolio clone</a></p>
-    <p align="center"><a href="https://abhisheknavgan95.github.io/Usability-Hub/">Usability Hub</a></p>
-    <p align="center"><a href="https://abhisheknavgan95.github.io/Spacify-clone/">Spacify</a></p>
+    <p align="center"><a href="https://abhisheknavgan95.github.io/Cynthia-Ugwu-Portfolio-Clone/">Portfolio clone</a></p>
+    <p align="center"><a href="https://abhisheknavgan95.github.io/Usability-Hub/">Usability-Hub clone</a></p>
+    <p align="center"><a href="https://abhisheknavgan95.github.io/Spacify-clone/">Spacify clone</a></p>
           
 ---
 
