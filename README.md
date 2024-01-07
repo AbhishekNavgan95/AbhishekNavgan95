@@ -31,8 +31,8 @@
         ],
         
         education : {
-          BCA : TMV PUNE (2022-25),
-          HSC : PKMH (2018-19)
+          BCA : "TMV PUNE (2022-25)",
+          HSC : "PKMH (2018-19)"
         },
         
         contact : {
