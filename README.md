@@ -22,12 +22,13 @@
           'React', 'JavaScript', 
           'HTML', 'CSS', 
           'Git', 'Github', 
-          'C', 'C++'
+          'C', 'C++', 
+          'Tailwind CSS', 'Bootstrap CSS'
         ],
         
         currentlyLearning: [
           'Java', 'Node js', 
-          'Express js', 'SQL'
+          'Express js', 'SQL', 'Mongo DB'
         ],
         
         education : {
@@ -51,6 +52,7 @@
 ---
 
 <h2 align="center">React Project</h2>
+    <p align="center"><a href="https://ezshop-redux.netlify.app/">EZShop</a></p>
     <p align="center"><a href="https://todoapp-react-an.netlify.app/">Todo App</a></p>
     <p align="center"><a href="https://code-hex.netlify.app/">Code-Hex</a></p>
     <p align="center"><a href="https://vanlife-an.netlify.app/">VanLife</a></p>
