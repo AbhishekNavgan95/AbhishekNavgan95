@@ -19,7 +19,7 @@
      const abhishekNavgan = {
       
         areaOfExperties : [
-          'React', 'JavaScript', 
+          'React', 'JavaScript', 'Express js', 
           'HTML', 'CSS', 
           'Git', 'Github', 
           'C', 'C++', 
@@ -28,7 +28,7 @@
         
         currentlyLearning: [
           'Java', 'Node js', 
-          'Express js', 'SQL', 'Mongo DB'
+          'SQL', 'Mongo DB'
         ],
         
         education : {
@@ -49,23 +49,38 @@
         ]
      }
 
+           
+
+<h2 align="center">
+ Backend Projects
+</h2>
+
 ---
 
-<h2 align="center">HTML CSS Projects</h2>
-    <p align="center"><a href="https://abhisheknavgan95.github.io/Cynthia-Ugwu-Portfolio-Clone/">Portfolio clone</a></p>
-    <p align="center"><a href="https://abhisheknavgan95.github.io/Usability-Hub/">Usability-Hub clone</a></p>
-    <p align="center"><a href="https://abhisheknavgan95.github.io/Spacify-clone/">Spacify clone</a></p>
+<h2 align="center">Node js Projects</h2>
+    <p align="center"><a href="https://github.com/AbhishekNavgan95/backend-auth" target="_blank">Authentication & Authorization</a></p>
+    <p align="center"><a href="https://github.com/AbhishekNavgan95/Todo-app-backend" target="_blank">Todo App</a></p>
+    <p align="center"><a href="https://github.com/AbhishekNavgan95/blog-app-backend" target="_blank">Blog App</a></p>
      
-             
+
 ---
 
+<h2 align="center">See my all projects</h2>
+    <p align="center"><a href="https://abhisheknavgan.netlify.app/">My Portfolio Webpage</a></p>
 
-
+       
+---
+             
 
 </td>
 <td width="">
 
 
+
+
+<h2 align="center">
+ Frontend Projects
+</h2>
 
 ---
 
@@ -77,23 +92,30 @@
      
 ---
 
+
+<h2 align="center">HTML CSS Projects</h2>
+    <p align="center"><a href="https://abhisheknavgan95.github.io/Cynthia-Ugwu-Portfolio-Clone/">Portfolio clone</a></p>
+    <p align="center"><a href="https://abhisheknavgan95.github.io/Usability-Hub/">Usability-Hub</a></p>
+    <p align="center"><a href="https://abhisheknavgan95.github.io/Spacify-clone/">Spacify</a></p>
+    <p align="center"><a href="https://abhisheknavgan95.github.io/Logitech-Clone/">Logitech G-Series</a></p>
+     
+---
+  
+
 <h2 align="center">Bootstrap Projects</h2>
     <p align="center"><a href="https://abhisheknavgan95.github.io/Paws-Play-Dog-Services/">Play And Paws</a></p>
     <p  align="center"><a href="https://abhisheknavgan95.github.io/Travello/">Travello</a></p>
     <p align="center"><a href="https://abhisheknavgan95.github.io/Buildcon/">Buildcon</a></p>
     <p align="center"><a href="https://abhisheknavgan95.github.io/Elevation-Ed/">Elevation-Ed</a></p>
           
+
 ---
+
 
 <h2 align="center">JavaScript Project</h2>
     <p align="center"><a href="https://abhisheknavgan95.github.io/Key-Ninja/">Key Ninja</a></p>
 
----
 
-<h2 align="center">See my all projects</h2>
-    <p align="center"><a href="https://abhisheknavgan.netlify.app/">My Portfolio Webpage</a></p>
-
-       
 ---
     
 <h2 align="center"> reach out to me</h2>
