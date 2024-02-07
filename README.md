@@ -51,10 +51,6 @@
 
            
 
-<h2 align="center">
- Backend Projects
-</h2>
-
 ---
 
 <h2 align="center">Node js Projects</h2>
@@ -65,8 +61,8 @@
 
 ---
 
-<h2 align="center">See my all projects</h2>
-    <p align="center"><a href="https://abhisheknavgan.netlify.app/">My Portfolio Webpage</a></p>
+<h2 align="center">Full Stack Projects</h2>
+    <p align="center"><a href="https://github.com/AbhishekNavgan95/echo">ECHO</a></p>
 
        
 ---
@@ -76,11 +72,6 @@
 <td width="">
 
 
-
-
-<h2 align="center">
- Frontend Projects
-</h2>
 
 ---
 
@@ -112,8 +103,8 @@
 ---
 
 
-<h2 align="center">JavaScript Project</h2>
-    <p align="center"><a href="https://abhisheknavgan95.github.io/Key-Ninja/">Key Ninja</a></p>
+<h2 align="center">See my all projects</h2>
+    <p align="center"><a href="https://abhisheknavgan.netlify.app/">My Portfolio Webpage</a></p>
 
 
 ---
