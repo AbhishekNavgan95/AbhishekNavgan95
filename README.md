@@ -18,26 +18,25 @@
 
      const abhishekNavgan = {
       
-        areaOfExperties : [
-          'React', 'JavaScript', 'Express js', 
-          'HTML', 'CSS', 
-          'Git', 'Github', 
-          'C', 'C++', 
-          'Tailwind CSS', 'Bootstrap CSS'
+        areaOfExperties: [
+          'React', 'Node js', 'Express js', 
+          'HTML', 'CSS', 'JavaScript', 'C', 'C++', 'JAVA',
+          'MongoDB', 'SQL', 'Oracle',
+          'Git', 'Github', 'Tailwind CSS', 'Bootstrap CSS'
         ],
         
         currentlyLearning: [
-          'Java', 'Node js', 
-          'SQL', 'Mongo DB'
+          'Python', 'Next js', 
+          'Low-Level Design', 'Data Structures & Algorithms'
         ],
         
-        education : {
+        education: {
           BCA : "TMV PUNE (2022-25)",
           HSC : "PKMH (2018-19)"
         },
         
-        contact : {
-          email : "navganabhishek90@gmail.com",
+        contact: {
+          email: "navganabhishek90@gmail.com",
           LinkedIn : "Abhishek Navgan"
         },
         
@@ -45,7 +44,7 @@
           'Learning about tech', 
           'Admiring Automobiles', 
           'Watching animated movies', 
-          'Top fragging in valorant'
+          'Top fragging in Valorant'
         ]
      }
 
