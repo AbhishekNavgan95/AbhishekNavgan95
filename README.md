@@ -48,7 +48,11 @@
         ]
      }
 
-           
+---
+
+<h2 align="center">Full Stack Projects</h2>
+    <p align="center"><a target="_blank" href="https://echo-an.netlify.app/">ECHO</a></p>
+
 
 ---
 
@@ -57,13 +61,7 @@
     <p align="center"><a target="_blank" href="https://github.com/AbhishekNavgan95/Todo-app-backend" target="_blank">Todo App</a></p>
     <p align="center"><a target="_blank" href="https://github.com/AbhishekNavgan95/blog-app-backend" target="_blank">Blog App</a></p>
      
-
----
-
-<h2 align="center">Full Stack Projects</h2>
-    <p align="center"><a target="_blank" href="https://github.com/AbhishekNavgan95/echo">ECHO</a></p>
-
-       
+  
 ---
              
 
