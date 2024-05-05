@@ -37,11 +37,12 @@
         
         contact: {
           email: "navganabhishek90@gmail.com",
-          LinkedIn : "Abhishek Navgan"
+          LinkedIn : "Abhishek-Navgan"
         },
         
         hobbies : [
           'Learning about tech', 
+          'Web Designing'
           'Admiring Automobiles', 
           'Watching animated movies', 
           'Top fragging in Valorant'
@@ -68,6 +69,10 @@
 </td>
 <td width="">
 
+---
+
+<h2 align="center">Something unique</h2>
+    <p align="center"><a target="_blank" href="https://abhishek-navgan.netlify.app/">Abhishek Navgan</a></p>
 
 
 ---
@@ -96,13 +101,6 @@
     <p align="center"><a target="_blank" href="https://abhisheknavgan95.github.io/Buildcon/">Buildcon</a></p>
     <p align="center"><a target="_blank" href="https://abhisheknavgan95.github.io/Elevation-Ed/">Elevation-Ed</a></p>
           
-
----
-
-
-<h2 align="center">See my all projects</h2>
-    <p align="center"><a target="_blank" href="https://abhisheknavgan.netlify.app/">My Portfolio Webpage</a></p>
-
 
 ---
     
@@ -154,10 +152,11 @@
 
 <h2 align="center">Talk to me here</h2>
         <p align="center">
-          <a href="https://linkedin.com/in/abhishek navgan" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek navgan" height="30" width="40" /></a>
-          <a href="https://www.instagram.com/isol8ed_dev/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="overrated_programmer" height="30" width="40" /></a>
+          <a href="https://www.linkedin.com/in/abhishek-navgan" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek navgan" height="30" width="40" /></a>
+          <a href="https://www.instagram.com/isol8ed_abhi" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="overrated_programmer" height="30" width="40" /></a>
        </p>
-        <h3>Cheak out my repositories  <br>⬇️⬇️⬇️⬇️⬇️⬇️</h3>
+        <h2>Cheak out my repos here</h3>
+        <p>⬇️⬇️⬇️⬇️⬇️⬇️</p>
               
 ---
 
