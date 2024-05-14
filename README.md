@@ -71,8 +71,8 @@
 
 ---
 
-<h2 align="center">Something unique</h2>
-    <p align="center"><a target="_blank" href="https://abhishek-navgan.netlify.app/">Abhishek Navgan</a></p>
+<h2 align="center">My Webpage</h2>
+    <p align="center"><a target="_blank" href="https://abhisheknavgan.netlify.app/">Abhishek Navgan</a></p>
 
 
 ---
