@@ -52,6 +52,7 @@
 ---
 
 <h2 align="center">Full Stack Projects</h2>
+    <p align="center"><a target="_blank" href="https://care-pulse-lemon.vercel.app/">CarePulse</a></p>
     <p align="center"><a target="_blank" href="https://echo-an.netlify.app/">ECHO</a></p>
     <p align="center"><a target="_blank" href="https://tutorialheaven.netlify.app/">Tutorial Heaven</a></p>
 
