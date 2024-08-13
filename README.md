@@ -52,19 +52,12 @@
 ---
 
 <h2 align="center">Full Stack Projects</h2>
-    <p align="center"><a target="_blank" href="https://care-pulse-lemon.vercel.app/">CarePulse</a></p>
     <p align="center"><a target="_blank" href="https://echo-an.netlify.app/">ECHO</a></p>
     <p align="center"><a target="_blank" href="https://tutorialheaven.netlify.app/">Tutorial Heaven</a></p>
+    <p align="center"><a target="_blank" href="quizzy-an.netlify.app">Quizzy</a></p>
+    <p align="center"><a target="_blank" href="https://prompty-an.vercel.app/">Prompty</a></p>
+    <p align="center"><a target="_blank" href="https://care-pulse-lemon.vercel.app/">CarePulse</a></p>
 
-
----
-
-<h2 align="center">Node js Projects</h2>
-    <p align="center"><a target="_blank" href="https://github.com/AbhishekNavgan95/backend-auth" target="_blank">Authentication & Authorization</a></p>
-    <p align="center"><a target="_blank" href="https://github.com/AbhishekNavgan95/Todo-app-backend" target="_blank">Todo App</a></p>
-    <p align="center"><a target="_blank" href="https://github.com/AbhishekNavgan95/blog-app-backend" target="_blank">Blog App</a></p>
-     
-  
 ---
              
 
@@ -79,7 +72,7 @@
 
 ---
 
-<h2 align="center">React Project</h2>
+<h2 align="center">React Frontend Project</h2>
     <p align="center"><a target="_blank" href="https://ezshop-redux.netlify.app/">EZShop</a></p>
     <p align="center"><a target="_blank" href="https://todoapp-react-an.netlify.app/">Todo App</a></p>
     <p align="center"><a target="_blank" href="https://code-hex.netlify.app/">Code-Hex</a></p>
