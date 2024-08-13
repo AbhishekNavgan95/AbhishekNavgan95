@@ -73,6 +73,7 @@
 ---
 
 <h2 align="center">React Frontend Project</h2>
+    <p align="center"><a target="_blank" href="https://stickybytes.netlify.app/">Sticky Bytes</a></p>
     <p align="center"><a target="_blank" href="https://ezshop-redux.netlify.app/">EZShop</a></p>
     <p align="center"><a target="_blank" href="https://todoapp-react-an.netlify.app/">Todo App</a></p>
     <p align="center"><a target="_blank" href="https://code-hex.netlify.app/">Code-Hex</a></p>
