@@ -53,8 +53,8 @@
 
 <h2 align="center">Projects</h2>
     <p align="center"><a target="_blank" href="https://echo-an.netlify.app/">ECHO</a></p>
-    <p align="center"><a target="_blank" href="geo-profile-ten.vercel.app/">GeoProfile</a></p>
-    <p align="center"><a target="_blank" href="gigzy.vercel.app">Gigzy</a></p>
+    <p align="center"><a target="_blank" href="https://geo-profile-ten.vercel.app/">GeoProfile</a></p>
+    <p align="center"><a target="_blank" href="https://gigzy.vercel.app">Gigzy</a></p>
     <p align="center"><a target="_blank" href="https://tutorialheaven.netlify.app/">Tutorial Heaven</a></p>
     <p align="center"><a target="_blank" href="quizzy-an.netlify.app">Quizzy</a></p>
     <p align="center"><a target="_blank" href="https://prompty-an.vercel.app/">Prompty</a></p>
