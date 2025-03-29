@@ -51,7 +51,7 @@
 
 ---
 
-<h2 align="center">Projects</h2>
+<h2 align="center">Some of my projects</h2>
     <p align="center"><a target="_blank" href="https://echo-an.netlify.app/">ECHO</a></p>
     <p align="center"><a target="_blank" href="https://geo-profile-ten.vercel.app/">GeoProfile</a></p>
     <p align="center"><a target="_blank" href="https://gigzy.vercel.app">Gigzy</a></p>
