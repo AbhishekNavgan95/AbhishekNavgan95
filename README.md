@@ -78,10 +78,11 @@
     <td align="center">
         <img src="https://img.buzzfeed.com/buzzfeed-static/static/2021-06/9/21/asset/23809ee28d48/anigif_sub-buzz-527-1623274106-21.gif" width="400px">
       <br>
-      Hello Buddy! checkout my repos below.
+<!--       Hello Buddy! checkout my repos below. -->
     </td>
     <td width="" align="center">
-      <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AbhishekNavgan95&show_icons=true&theme=gotham" alt="abhisheknaiidu"/>
+      <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekNavgan95&layout=compact" alt="abhisheknaiidu"/>
+<!--       <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AbhishekNavgan95&show_icons=true&theme=gotham" alt="abhisheknaiidu"/> -->
     </td>
   </tr>
 </table>
