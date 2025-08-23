@@ -2,8 +2,8 @@
   <tr>
     <th colspan="2">
     <img width="100%" align="right" src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg">
-    <h1 align="center">Hello, my name is Abhishek!</h1>
-    <h3 align="center">I write code for a living...</h3>
+    <h1 align="center">Hey, I'm Abhishek 👋</h1>
+    <h3 align="center">I break things until they start working... a.k.a Developer</h3>
   </th>
   </tr>
   <tr>
@@ -17,32 +17,36 @@
     <td width="">
 
      const abhishekNavgan = {
-      
+  
         skills: [
-          'React', 'Node js', 'Express js', 'Next js', 
-          'HTML', 'CSS', 'JavaScript', 'C', 'C++', 'JAVA',
-          'MongoDB', 'SQL', 'Git', 
-          'Tailwind CSS', 'Bootstrap CSS' ...
+          "React", "Next.js", "Tailwind CSS", "Node.js",
+          "Express.js", "JavaScript", "TypeScript",
+          "MongoDB", "PostgreSQL", "SQL",
+          "AWS", "Docker", "CI/CD", "REST API", 
+          "GraphQL", "WebSockets", "Firebase", 
+          "Appwrite", "OpenAI", "LangChain", "RAG", 
+          "Prompt Engineering", "Generative AI",
+          "...and enough buzzwords to crash LinkedIn"
         ],
         
         education: {
-          BCA : "TMV PUNE (2022-25)",
-          HSC : "PKMH (2018-19)"
+          BCA: "TMV PUNE (2022-25) – learned code, coffee, and debugging patience",
+          HSC: "PKMH (2018-19) – the phase where I thought commerce might be fun"
         },
         
         contact: {
           email: "navganabhishek90@gmail.com",
-          LinkedIn : "Abhishek-Navgan"
+          LinkedIn: "Abhishek-Navgan"
         },
         
-        hobbies : [
-          'Learning about tech', 
-          'Web Designing'
-          'Admiring Automobiles', 
-          'Watching animated movies', 
-          'Top fragging in Valorant'
+        hobbies: [
+          "Learning about tech (surprise, surprise)", 
+          "Web Designing (making pixels behave)", 
+          "Admiring Automobiles (because speed > everything)", 
+          "Watching animated movies", 
+          "Top fragging in Valorant (or blaming lag when I don’t)"
         ]
-     }
+      };
 
 ---
              
@@ -52,20 +56,20 @@
 ---
 
 <h2 align="center">Some of my projects</h2>
-    <p align="center"><a target="_blank" href="https://devnest-an.netlify.app">Devnest</a></p>
+    <p align="center"><a target="_blank" href="https://echo.abhisheknavgan.xyz">ECHO</a></p>
+    <p align="center"><a target="_blank" href="https://devnest.abhisheknavgan.xyz">Devnest</a></p>
     <p align="center"><a target="_blank" href="https://geo-profile-ten.vercel.app/">GeoProfile</a></p>
     <p align="center"><a target="_blank" href="https://gigzy.vercel.app">Gigzy</a></p>
     <p align="center"><a target="_blank" href="https://tutorialheaven.netlify.app/">Tutorial Heaven</a></p>
     <p align="center"><a target="_blank" href="https://quizzy-an.netlify.app">Quizzy</a></p>
     <p align="center"><a target="_blank" href="https://prompty-an.vercel.app/">Prompty</a></p>
     <p align="center"><a target="_blank" href="https://care-pulse-lemon.vercel.app/">CarePulse</a></p>
-    <p align="center"><a target="_blank" href="https://todo-landing-page.vercel.app/">DO task</a></p>
     <p align="center"><a target="_blank" href="https://stickybytes.netlify.app/">Sticky Bytes</a></p>
 
 ---
     
 <h2 align="center"> reach out to me</h2>
-    <p  align="center"><a target="_blank" href="mailto:Navganabhishek90@gmail.com">Abhishek Navgan</a></p>
+    <p  align="center"><a target="_blank" href="mailto:navganabhishek90@gmail.com">Abhishek Navgan</a></p>
           
 ---
 
