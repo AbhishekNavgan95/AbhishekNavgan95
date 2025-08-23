@@ -30,8 +30,8 @@
         ],
         
         education: {
-          BCA: "TMV PUNE (2022-25) – learned code, coffee, and debugging patience",
-          HSC: "PKMH (2018-19) – the phase where I thought commerce might be fun"
+          BCA: "TMV PUNE (2022-25) 
+          // learned code, coffee, and debugging patience",
         },
         
         contact: {
