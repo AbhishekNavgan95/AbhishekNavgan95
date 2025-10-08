@@ -3,7 +3,9 @@
     <th colspan="2">
     <img width="100%" align="right" src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg">
     <h1 align="center">Hey, I'm Abhishek 👋</h1>
-    <h3 align="center">I break things until they start working... a.k.a Developer</h3>
+    [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C647&center=true&vCenter=true&multiline=true&width=435&lines=Full+stack+developer%2C+;Tech+nerd%2C+Passionate+gamer%2C+;Curious+student%2C+and+more...;+It+depends+on+who+you+ask.+)](https://git.io/typing-svg)
+
+    <!-- <h3 align="center">I break things until they start working... a.k.a Developer</h3> -->
   </th>
   </tr>
   <tr>
