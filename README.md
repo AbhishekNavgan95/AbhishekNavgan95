@@ -58,7 +58,7 @@
           "Web Designing (making pixels behave)", 
           "Admiring Automobiles (because speed > everything)", 
           "Watching animated movies", 
-          "Top fragging in Valorant (or blaming lag when I don’t)"
+          "Top fragging in Valorant"
         ]
       };             
 </td>
